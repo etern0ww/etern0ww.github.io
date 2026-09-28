@@ -1,15 +1,15 @@
 :root {
-  --bg: #0A0A0A;
-  --bg-elevated: #101113;
-  --bg-soft: #17191D;
+  --bg: #0F172A;
+  --bg-elevated: #111827;
+  --bg-soft: #1E293B;
   --panel: rgba(19, 20, 22, 0.8);
   --panel-strong: #14171A;
   --card: rgba(255, 255, 255, 0.02);
   --line: rgba(255, 255, 255, 0.07);
   --text: #F5F7FA;
   --muted: #A0A7B2;
-  --gold: #FFD400;
-  --gold-soft: rgba(255, 212, 0, 0.14);
+  --gold: #2563EB;
+  --gold-soft: rgba(37, 99, 235, 0.14);
   --shadow: 0 30px 80px rgba(0, 0, 0, 0.45);
   --radius: 26px;
   --container: min(92%, 1200px);
